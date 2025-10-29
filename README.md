@@ -1,1 +1,38 @@
-# Emmanuelalao
+# 👋 Hi, I'm Emmanuel Alao
+
+🚀 **DevOps Engineer | Cloud & Automation Enthusiast | CI/CD Specialist**
+
+I’m passionate about designing scalable cloud systems, automating deployments, and integrating monitoring solutions using modern DevOps tools.
+
+---
+
+## 🧰 My DevOps Projects
+
+| Project | Description |
+|----------|--------------|
+| [compose-nginx-flask-redis](https://github.com/EmmanuelAlao/compose-nginx-flask-redis) | Flask + Redis + Nginx stack using Docker Compose |
+| [k8s-python-app-kustomize](https://github.com/EmmanuelAlao/k8s-python-app-kustomize) | Kubernetes app deployed with Kustomize |
+| [gha-node-ci-cd-docker](https://github.com/EmmanuelAlao/gha-node-ci-cd-docker) | CI/CD pipeline using GitHub Actions + Docker |
+| [terraform-aws-ec2-nginx](https://github.com/EmmanuelAlao/terraform-aws-ec2-nginx) | Terraform to deploy AWS EC2 with Nginx |
+| [ansible-ubuntu-bootstrap](https://github.com/EmmanuelAlao/ansible-ubuntu-bootstrap) | Ansible playbook to bootstrap Ubuntu server |
+| [compose-prometheus-grafana](https://github.com/EmmanuelAlao/compose-prometheus-grafana) | Monitoring stack with Prometheus + Grafana |
+
+---
+
+## 🧠 Skills
+- **Cloud Platforms:** AWS, Azure, GCP  
+- **CI/CD Tools:** GitHub Actions, Jenkins  
+- **IaC:** Terraform, Ansible  
+- **Containerization:** Docker, Kubernetes  
+- **Monitoring:** Prometheus, Grafana  
+
+---
+
+📫 **Connect with Me**
+- 🌐 [LinkedIn](https://linkedin.com/in/emmanuelalao)
+- 💻 [GitHub](https://github.com/EmmanuelAlao)
+- ✉️ Email: *your email address here*
+
+---
+
+⭐ *Thanks for visiting! Check out my repositories for DevOps projects built with real-world automation workflows.*
