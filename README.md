@@ -10,12 +10,12 @@ I’m passionate about designing scalable cloud systems, automating deployments,
 
 | Project | Description |
 |----------|--------------|
-| [compose-nginx-flask-redis](https://github.com/EmmanuelAlao/compose-nginx-flask-redis) | Flask + Redis + Nginx stack using Docker Compose |
-| [k8s-python-app-kustomize](https://github.com/EmmanuelAlao/k8s-python-app-kustomize) | Kubernetes app deployed with Kustomize |
-| [gha-node-ci-cd-docker](https://github.com/EmmanuelAlao/gha-node-ci-cd-docker) | CI/CD pipeline using GitHub Actions + Docker |
-| [terraform-aws-ec2-nginx](https://github.com/EmmanuelAlao/terraform-aws-ec2-nginx) | Terraform to deploy AWS EC2 with Nginx |
-| [ansible-ubuntu-bootstrap](https://github.com/EmmanuelAlao/ansible-ubuntu-bootstrap) | Ansible playbook to bootstrap Ubuntu server |
-| [compose-prometheus-grafana](https://github.com/EmmanuelAlao/compose-prometheus-grafana) | Monitoring stack with Prometheus + Grafana |
+| [compose-nginx-flask-redis](https://github.com/Femi6715/compose-nginx-flask-redis) | Flask + Redis + Nginx stack using Docker Compose |
+| [k8s-python-app-kustomize](https://github.com/Femi6715/k8s-python-app-kustomize) | Kubernetes app deployed with Kustomize |
+| [gha-node-ci-cd-docker](https://github.com/Femi6715/gha-node-ci-cd-docker) | CI/CD pipeline using GitHub Actions + Docker |
+| [terraform-aws-ec2-nginx](https://github.com/Femi6715/terraform-aws-ec2-nginx) | Terraform to deploy AWS EC2 with Nginx |
+| [ansible-ubuntu-bootstrap](https://github.com/Femi6715/ansible-ubuntu-bootstrap) | Ansible playbook to bootstrap Ubuntu server |
+| [compose-prometheus-grafana](https://github.com/Femi6715/compose-prometheus-grafana) | Monitoring stack with Prometheus + Grafana |
 
 ---
 
