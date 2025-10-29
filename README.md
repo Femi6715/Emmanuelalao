@@ -29,9 +29,8 @@ I’m passionate about designing scalable cloud systems, automating deployments,
 ---
 
 📫 **Connect with Me**
-- 🌐 [LinkedIn](https://linkedin.com/in/emmanuelalao)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/emmanuelalao7/)
 - 💻 [GitHub](https://github.com/EmmanuelAlao)
-- ✉️ Email: *your email address here*
 
 ---
 
